@@ -1,0 +1,2 @@
+브라우저 내 localstorage를 이용해 브라우저 내 데이터를 저장
+OpenWeatherMap 사이트에 있는 API를 가져와서 출력
